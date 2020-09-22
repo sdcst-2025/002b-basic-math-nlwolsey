@@ -1,5 +1,5 @@
 ## SDSS Computing Studies Python Assignment
-### Assignment #2b Working with Variables (Total Marks 6)
+### Assignment #2b Working with Variables (Total Marks 7)
 
 Objectives:
 * to perform math operations with numerical value variables and then print the results
@@ -57,4 +57,4 @@ Display only the answer of x to the power of y.
 The answer should be calculated and stored in a variable called "answer"
 (1 points) 
 
-
+1 mark will be given for having the correct value stored into the variable "answer"
