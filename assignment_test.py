@@ -3,7 +3,7 @@
 import a1, a2, a3, a4, a5, a6
 
 def test1():
-  assert a1.answer == 12
+  assert a1.answer == 14
 
 def test2():
   assert a2.answer == 3
