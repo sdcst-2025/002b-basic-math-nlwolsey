@@ -1,13 +1,23 @@
 #! python3
 
-import assignment
+import a1, a2, a3, a4, a5, a6
 
 def test1():
-  assert assignment.function() == expected output
+  assert a1.answer == 12
 
 def test2():
-  assert "needle" in assignment.function()
-  assert "needle2" in assignment.function(),"error Message"
+  assert a2.answer == 3
 
 def test3():
-  assert assignment.function() == expected output
+  assert a3.answer == 10
+
+def test4():
+  assert a4.answer == 2.5
+
+def test5():
+  assert a5.answer == 1
+
+def test6():
+  assert a6.answer == 25
+
+
