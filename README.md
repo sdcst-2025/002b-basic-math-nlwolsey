@@ -14,6 +14,7 @@ You will be using the mathematical operators listed:
 Perform the operations listed and then display the output using the print() command.  No other output is required other than the numerical result.
 
 ### 6 Tasks
+### Note: For each of your assignments, you do not need to use output.  The values of the variables will be read directly from the program.
 
 ##### Task 1
 Open the assignment called a1.py
