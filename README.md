@@ -11,6 +11,7 @@ You will be using the mathematical operators listed:
 / division
 ** exponents
 % modulus (shows the remainder when two numbers are divided)
+
 Perform the operations listed and then display the output using the print() command.  No other output is required other than the numerical result.
 
 ### 6 Tasks
