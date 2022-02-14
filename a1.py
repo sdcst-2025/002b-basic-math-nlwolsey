@@ -8,3 +8,4 @@
 x = 10
 y = 4
 answer = 
+print( answer )

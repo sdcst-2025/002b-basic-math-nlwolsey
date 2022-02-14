@@ -5,17 +5,18 @@ Objectives:
 * to perform math operations with numerical value variables and then print the results
 
 You will be using the mathematical operators listed:
+```
 + addition
 - subtraction
 * multiplication
 / division
 ** exponents
 % modulus (shows the remainder when two numbers are divided)
+```
 
 Perform the operations listed and then display the output using the print() command.  No other output is required other than the numerical result.
 
-### 6 Tasks
-### Note: For each of your assignments, you do not need to use output.  The values of the variables will be read directly from the program.
+**Note that in all of these programs, you MUST store your answer in a variable called "answer"**
 
 ##### Task 1
 Open the assignment called a1.py
@@ -60,3 +61,11 @@ The answer should be calculated and stored in a variable called "answer"
 (1 points) 
 
 1 mark will be given for having the correct value stored into the variable "answer"
+
+##### Task 7
+Read through the file **example1.py** for information on using the math module.
+* Open the file called a7.py
+* The program has a variable called F that will store a float value for the temperature in degrees Fahreneight
+* Set F to a value of 62.5
+* Do a calculation that converts the temperature to degrees C and stores it in a variable called C
+* Round the temperature in C to 1 decimal place and print the result

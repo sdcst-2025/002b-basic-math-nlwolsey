@@ -5,3 +5,4 @@
 # The answer should be calculated and stored in a variable called "answer" (1 points)
 x = 5
 y = 2
+print(answer)
