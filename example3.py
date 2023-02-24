@@ -20,4 +20,4 @@ print(f"{num} rounded down is {answer}")
 print('This finds the value of a number rounded up')
 print("---------------------------------------------")
 num = 13.9
-print(f"{num} rounded down is {math.ceil(num)}")
+print(f"{num} rounded up is {math.ceil(num)}")
