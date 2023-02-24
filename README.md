@@ -6,13 +6,15 @@ Objectives:
 
 You will be using the mathematical operators listed:
 ```
-+ addition
-- subtraction
-* multiplication
-/ division
++ addition. can concatenate (join) 2 strings
+- subtraction. 
+* multiplication. an integer can also multiply by a string
+/ division.  all answers are converted to floats even if you do integer / integer
 ** exponents
 % modulus (shows the remainder when two numbers are divided)
 ```
+
+Note:  When a math operation involves a float and an int, the evaluated expression will automatically be converted to a float.
 
 Perform the operations listed and then display the output using the print() command.  No other output is required other than the numerical result.
 
@@ -63,9 +65,21 @@ The answer should be calculated and stored in a variable called "answer"
 1 mark will be given for having the correct value stored into the variable "answer"
 
 ##### Task 7
-Read through the file **example1.py** for information on using the math module.
+Read through the file **example1.py** for information on using the "round()" command.
 * Open the file called a7.py
 * The program has a variable called F that will store a float value for the temperature in degrees Fahreneight
 * Set F to a value of 62.5
 * Do a calculation that converts the temperature to degrees C and stores it in a variable called C
 * Round the temperature in C to 1 decimal place and print the result
+
+##### Task 8
+Read through the file **example2.py** and **example3.py** for information on using the math module.
+Calculate the length of a hypotenuse given 2 variables
+Set the value of a to 5
+Set the value of b to 8
+
+Determine the length of the hypotenuse and store it into a variable called c
+print the value of c
+
+You may use either the ** operator or math.pow(x,y) for your exponents
+You may use either math.sqrt(x) or the exponent to the power of 0.5 for your square root
